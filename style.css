@@ -91,6 +91,9 @@
     .main-p2 {
         margin-left: -36px;
     }
+    .card-group h3, h5 {
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 538px) {
@@ -112,5 +115,7 @@
     .ordering {
         width: 90%;
     }
-
+    .card-group h3, h5 {
+        text-align: center;
+    }
 }
